@@ -1,14 +1,22 @@
-# Default starter for Gridsome
+<h1 align="center"> First interaction with Gridsome 🤯 </h1>
 
-This is the project you get when you run `gridsome create new-project`.
+Demo: https://ed-cscosta.github.io/border_radius_generator/
 
-### 1. Install Gridsome CLI tool if you don't have
+Ui: [Caler Edwards Youtube Channel](https://9elements.com/blog/css-border-radius/)
 
-`npm install --global @gridsome/cli`
+## :computer: Ferramentas Utilizadas
 
-### 2. Create a Gridsome project
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" height="50" /> <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" height="50" /> <img src="https://cdn.svgporn.com/logos/vue.svg" width="50" height="50" /> <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" height="50" />
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+
+## Projeto
+
+Primeira interação a desenvolver com Gridsome, que é uma ferramenta fantástica para sites estáticos.
+
+
+## Preview
+
+<h1 align="center"><img align="center" src="./github_assets/preview.PNG" alt="Preview" width="400"></img></h1>
+
+
+<p align="center">Feito com ☕️ by Eduardo Costa</p>
