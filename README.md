@@ -1,6 +1,5 @@
 <h1 align="center"> First interaction with Gridsome 🤯 </h1>
 
-Demo: https://ed-cscosta.github.io/border_radius_generator/
 
 Ui: [Caler Edwards Youtube Channel](https://9elements.com/blog/css-border-radius/)
 
